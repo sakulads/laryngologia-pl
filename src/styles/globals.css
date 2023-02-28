@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+__#next {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}

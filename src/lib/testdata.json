@@ -1,0 +1,50 @@
+{
+  "id": "1",
+  "name": "FEOZ/FESS (funkcjonalna endoskopowa operacja zatok)",
+  "title": "Czas trwania zabiegu",
+  "subTitle": "Średni czas trwania zabiegu to około 1,5 – 2 godzin, uzależniony jest od rozwinięcia zmian zapalnych, zakresu zabiegu oraz budowy anatomicznej.",
+  "image1": "/image1.webp",
+  "listTitle": "Zalety zabiegu",
+  "listItems": [
+    {
+      "id": 10,
+      "itemTitles": "zmniejszenie ingerencji chirurgicznej do tkanek zmienionych chorobowo"
+    },
+    {
+      "id": 11,
+      "itemTitles": "zmniejszenie ingerencji chirurgicznej do tkanek zmienionych chorobowo"
+    },
+    {
+      "id": 10,
+      "itemTitles": "zmniejszenie ingerencji chirurgicznej do tkanek zmienionych chorobowo"
+    },
+    {
+      "id": 10,
+      "itemTitles": "zmniejszenie ingerencji chirurgicznej do tkanek zmienionych chorobowo"
+    },
+    {
+      "id": 10,
+      "itemTitles": "zmniejszenie ingerencji chirurgicznej do tkanek zmienionych chorobowo"
+    },
+    {
+      "id": 10,
+      "itemTitles": "zmniejszenie ingerencji chirurgicznej do tkanek zmienionych chorobowo"
+    },
+    {
+      "id": 10,
+      "itemTitles": "zmniejszenie ingerencji chirurgicznej do tkanek zmienionych chorobowo"
+    }
+  ],
+  "opisZabiegu": "Opis zabiegu",
+  "opisTitle": "FESS – (z ang. FESS – functional endoscopic sinus surgery )",
+  "opisContent1": "FEOZ –  funkcjonalna endoskopowa operacja zatok, innowacyjna metoda leczenia zatok przynosowych, nie wymagająca rozcinania zdrowych  tkanek. Podczas zabiegu lekarz wykorzystując endoskop  ma bieżący podgląd na operowane obszary, co umożliwia ingerencję chirurgiczną  tylko do zmian dotkniętych chorobowo. Operacja przeprowadzana jest w znieczuleniu ogólnym, średni czas zabiegu trwa od około 1 do 2 godzin w zależności od schorzenia.  Kwalifikacja do zabiegu po uprzedniej konsultacji laryngologicznej, niezbędne jest wykonanie tomografii komputerowej nosa i zatok przynosowych, badanie to umożliwi określenie zmian w obrębie zajętym chorobowo.",
+  "opisContent2": "Objawy towarzyszące wyżej  wymienionym chorobom   to między innymi katar, gęsta wydzielina z nosa, ból rozpierający twarzoczaszkę,  gorączka, bóle głowy, pogorszenie węchu, obrzęki w okolicy oczu, spływanie wydzieliny po gardle. ",
+  "opisContent3": "Przeprowadzenie operacji zatok przy użyciu endoskopu",
+  "opisContent4": "przekłada się na krótszy i mniej bolesny okres rekonwalescencji. Przez pierwsze kilka dni jama nosowa będzie oczyszczała się ze skrzepów krwi, towarzyszyć może temu również początkowa trudność z oddychaniem, wynikająca z chwilowego obrzęku błony śluzowej. Zdarza się że po zabiegu u niektórych pacjentów wystąpi chwilowe zasinienie powiek. Na karcie wypisowej z kliniki , każdy pacjent dostaje zalecenie od lekarza, przepisywane są środki przeciwbólowe oraz antybiotyki jeżeli będą wymagane. Ogólne zalecenia dla pacjenta po zabiegu to unikanie czynności które mogą sprzyjać wzrostowi ciśnienia tętniczego tj. sport, sauna, podróże samolotem do około 14 dni (chyba że lekarz zaleci inaczej). Należy wystrzegać się również spożywania alkoholu, kawy i palenia papierosów.",
+  "opisContent5": "Zabiegi towarzyszące: septoplastyka, konchoplastyka.",
+  "opisTitle2": "Rekonwalescencja po funkcjonalnej endoskopowej operacji zatok",
+  "opisContent6": "Przez pierwsze kilka dni jama nosowa będzie oczyszczała się ze skrzepów krwi, towarzyszyć może temu również początkowa trudność z oddychaniem, wynikająca z chwilowego obrzęku błony śluzowej. Zdarza się że po zabiegu u niektórych pacjentów wystąpi chwilowe zasinienie powiek. Na karcie wypisowej z kliniki , każdy pacjent dostaje zalecenie od lekarza, przepisywane są środki przeciwbólowe oraz antybiotyki jeżeli będą wymagane. Ogólne zalecenia dla pacjenta po zabiegu to unikanie czynności które mogą sprzyjać wzrostowi ciśnienia tętniczego tj. sport, sauna, podróże samolotem 7-10 dni (chyba że doktor zaleci inaczej). Należy wystrzegać się również picia alkoholu, kawy czy palenia papierosów.",
+  "opisContent7": "Zabiegi towarzyszące: septoplastyka, konchoplastyka.",
+  "wkazaniaZabiegu": "Wskazania do zabiegu",
+  "image2": "image1-2.webp"
+}
